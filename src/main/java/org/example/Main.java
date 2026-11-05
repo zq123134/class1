@@ -9,5 +9,6 @@ public class Main {
         String name = "test";
         int age = 20;
         System.out.println("名字：" + name + "，年龄：" + age);
+        System.out.println("12345");
     }
 }
