@@ -10,5 +10,6 @@ public class Main {
         int age = 20;
         System.out.println("名字：" + name + "，年龄：" + age);
         System.out.println("12345");
+        System.out.println("test2");
     }
 }
